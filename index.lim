@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>E6B8FE</corfondo>
+        <corbanda>A303F8</corbanda>
+        <cornavega>7602B5</cornavega>
+        <cormensaxes>7602B5</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Operaciones</titulo>
+        <subtitulo>Operaciones con Racionales</subtitulo>
+        <autor>Sillenid Ruiz</autor>
+        <logo>operaciones-basicas-de-matematicas.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="SONIDO_RESPUESTA_CORRECTA.mp3" modo="1" >¡Felicitaciones!</correcto>
+        <incorrecto son="DERROTA_EFECTO_DE_SONIDO__PERDIDA__DECEPCION__FRACASO__DEFEAT_SOUND_EFFECT_–_SIN_COPYRIGHT.mp3" modo="1" >¡Rayos, sigue intentando!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="36" posy="10" ancho="523" largo="72"><![CDATA[
+<p align="center">
+<font color="#000000" face="Lucida" size="20">OPERACIONES CON RACIONALES<br>
+</font></p>
+]]></texto>
+              <cfondo>FFFFFF</cfondo>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>40</tipo>
+              <cabeceira>Suma de fracciones</cabeceira>
+            <modo>0</modo>
+            <forma>+</forma>
+            <numero>34</numero>
+            <numero>32</numero>
+            <numero>7</numero>
+            <numero>32</numero>
+            <numero>41</numero>
+            <numero>32</numero>
+        </paxina>
+        <paxina id="3" >
+              <tipo>41</tipo>
+              <cabeceira>Resta de fracciones</cabeceira>
+            <modo>0</modo>
+            <forma>-</forma>
+            <valor>1</valor>
+            <numero>2</numero>
+            <numero>2</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>16</tipo>
+              <cabeceira>Realiza la siguiente actividad</cabeceira>
+              <externa dimx="1000" dimy="420"><![CDATA[https://wordwall.net/play/82812/134/322]]></externa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <imaxe>Racionales.jpg</imaxe>
+              <filas>9</filas>
+              <columnas>8</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>40</tipo>
+              <cabeceira>Resuelve</cabeceira>
+            <modo>1</modo>
+            <forma>x</forma>
+            <numero>3</numero>
+            <numero>4</numero>
+            <numero>5</numero>
+            <numero>2</numero>
+            <numero>15</numero>
+            <numero>8</numero>
+        </paxina>
+        <paxina id="7" >
+              <tipo>36</tipo>
+              <forma>0</forma>
+              <modo>1</modo>
+              <etiqueta>08000000</etiqueta>
+              <etiqueta>88808880</etiqueta>
+              <etiqueta>08000000</etiqueta>
+              <etiqueta>10010111</etiqueta>
+              <etiqueta>11010101</etiqueta>
+              <etiqueta>10110110</etiqueta>
+              <etiqueta>10010101</etiqueta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>41</tipo>
+            <modo>1</modo>
+            <forma>/</forma>
+            <numero>2</numero>
+            <numero>2</numero>
+        </paxina>
+        <paxina id="9" >
+              <tipo>41</tipo>
+            <modo>1</modo>
+            <forma>x</forma>
+            <numero>3</numero>
+            <numero>3</numero>
+        </paxina>
+        <paxina id="10" >
+              <tipo>16</tipo>
+              <cabeceira>Realiza la siguiente actividad</cabeceira>
+              <externa dimx="1000" dimy="420"><![CDATA[https://quizizz.com/join?gc=00905920]]></externa>
+        </paxina>
+    </libro>
+</lim>
